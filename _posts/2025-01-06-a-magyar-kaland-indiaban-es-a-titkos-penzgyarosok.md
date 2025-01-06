@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A magyar kaland Indiában és a titkos pénzgyárosok"
 date: 2025-01-06 15:01:26 +0100
 ---

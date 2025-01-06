@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A legnagyobb kaland: nyugdíj, pénzhamisítás és a Google varázsereje"
 date: 2025-01-06 17:01:26 +0100
 ---

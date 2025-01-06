@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Kalandok a politika és a sport világában"
 date: 2025-01-06 16:53:04 +0100
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Amikor a világ kifordul önmagából"
 date: 2025-01-06 15:47:53 +0100
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Az évszázad visszatérése"
 date: 2025-01-06 15:09:29 +0100
 ---

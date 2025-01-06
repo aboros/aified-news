@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Google és a Kandallók Füstös Rejtélye"
 date: 2025-01-06 15:39:31 +0100
 ---

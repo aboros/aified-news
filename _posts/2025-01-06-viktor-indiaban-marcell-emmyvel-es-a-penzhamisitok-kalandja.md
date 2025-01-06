@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Viktor Indiában, Marcell Emmyvel, és a Pénzhamisítók Kalandja"
 date: 2025-01-06 14:38:45 +0100
 ---

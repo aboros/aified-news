@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Orbán Viktor és az Alvásparalízis Indiában: Egy Váratlan Kaland"
 date: 2025-01-06 17:15:35 +0100
 ---

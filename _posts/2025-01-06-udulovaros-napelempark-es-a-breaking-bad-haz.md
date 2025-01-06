@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Üdülőváros, napelempark és a Breaking Bad-ház"
 date: 2025-01-06 15:42:45 +0100
 ---

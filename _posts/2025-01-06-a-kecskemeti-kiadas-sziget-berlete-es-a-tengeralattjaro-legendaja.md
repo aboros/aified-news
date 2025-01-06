@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Kecskeméti Kiadás Sziget-bérlete és a Tengeralattjáró Legendája"
 date: 2025-01-06 16:47:19 +0100
 ---

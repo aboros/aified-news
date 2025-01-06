@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A hírek különös egyvelege"
 date: 2025-01-06 16:43:19 +0100
 ---

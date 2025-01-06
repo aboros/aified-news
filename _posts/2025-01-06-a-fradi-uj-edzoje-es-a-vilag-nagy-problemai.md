@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "A Fradi új edzője és a világ nagy problémái"
 date: 2025-01-06 16:33:55 +0100
 ---
